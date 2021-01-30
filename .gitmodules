@@ -1,0 +1,3 @@
+[submodule "2021W/COMP5900X-TrustedComputing"]
+	path = 2021W/trustedcomp
+	url = git@github.com:willfindlay/COMP5900X-TrustedComputing.git
