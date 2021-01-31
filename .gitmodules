@@ -16,3 +16,6 @@
 [submodule "2021W/3000"]
 	path = 2021W/3000
 	url = git@github.com:willfindlay/comp3000-2021w.git
+[submodule "homepage"]
+	path = homepage
+	url = git@github.com:willfindlay/academic-homepage.git
