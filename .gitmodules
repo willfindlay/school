@@ -19,3 +19,6 @@
 [submodule "homepage"]
 	path = homepage
 	url = git@github.com:willfindlay/academic-homepage.git
+[submodule "cv"]
+	path = cv
+	url = git@github.com:willfindlay/cv.git
